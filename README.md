@@ -5,7 +5,7 @@ This project is inspired by a real-world dataset from the **U.S. Forest Service*
 
 ---
 
-![Cover Prediction Maps](./images/forest_cover_prediction_map.png)
+![Cover Prediction Maps]([./images/forest_cover_prediction_map.png](https://github.com/spsingh132/Forest-Cover-Type-Prediction/blob/main/Map.png))
 
 ---
 
